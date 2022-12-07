@@ -15,9 +15,12 @@ In this internship, we were provided a total of 2 Tasks and I was able to succes
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Hemakokku/Data_analysis_projects/blob/main/Task_5_data_analysis_sports.ipynb)
 
 
-##Task-4:Exploratory Data Analysis Terrorism
+
+### # Task-4 : Exploratory Data Analysis Terrorism
+
 
 1.To perform Exploratory Data Analysis Terrorism
+
 2.You can use R, Python,PowerBI or any other tool.
 
 
