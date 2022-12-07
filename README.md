@@ -16,10 +16,6 @@ In this internship, we were provided a total of 2 Tasks and I was able to succes
 
 
 
-### # Task - 4 : Exploratary Data Analysis Terrorism
-1.To Perform Explloratary Data Analysis on Terrorism 
-
-2.You can use R, Python, Power BI, orr any Other tool.
 
 
 ### # Task-5 : Exploratory Data Analysis Sports 
