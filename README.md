@@ -11,7 +11,7 @@ This repository contains the tasks that I completed while working as an intern f
 In this internship, we were provided a total of 8 Tasks and I was able to successfully complete all the 8 tasks within the given time-frame.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N-EJXVJhYfo)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Hemakokku/Data_analysis_projects/blob/main/Task-4%20-%20Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb)
 
 ### # Task-5 : Exploratory Data Analysis Sports 
 _Please click on the images on right side to view my solution._
