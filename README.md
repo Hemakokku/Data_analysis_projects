@@ -8,11 +8,18 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month 
 - **Internship Type** - Work from Home
 
-In this internship, we were provided a total of 8 Tasks and I was able to successfully complete all the 8 tasks within the given time-frame.
+In this internship, we were provided a total of 2 Tasks and I was able to successfully complete all the 2 tasks within the given time-frame.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N-EJXVJhYfo)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Hemakokku/Data_analysis_projects/blob/main/Task-4%20-%20Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb)
-(https://github.com/Hemakokku/Data_analysis_projects/blob/main/Task_5_data_analysis_sports.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Hemakokku/Data_analysis_projects/blob/main/Task_5_data_analysis_sports.ipynb)
+
+
+
+### # Task - 4 : Exploratary Data Analysis Terrorism
+1.To Perform Explloratary Data Analysis on Terrorism 
+
+2.You can use R, Python, Power BI, orr any Other tool.
 
 
 ### # Task-5 : Exploratory Data Analysis Sports 
